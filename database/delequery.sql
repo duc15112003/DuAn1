@@ -1,0 +1,16 @@
+use qlcuahanggiaydb;
+delete from tblchitiethd;
+delete from tblchitietkm;
+delete from tblchitietpn;
+delete from tblhoadon;
+delete from tblkhachhang;
+delete from tblkhuyenmai;
+delete from tblloai;
+delete from tblmausac;
+delete from tblnhacungcap;
+delete from tblnhanvien;
+delete from tblphieunhap;
+delete from tblsanpham;
+delete from tbltaikhoan;
+delete from tblthuonghieu;
+delete from tblxuatxu;
